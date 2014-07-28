@@ -1,0 +1,3 @@
+Content\BackgroundGradient.xnb
+Content\Crosshair.xnb
+Content\EnhancedCrosshair.xnb

@@ -1,0 +1,9 @@
+C:\Users\Nihar\documents\visual studio 2013\Projects\CameraTester\CameraTester\CameraTester\bin\x86\Debug\Content\BackgroundGradient.xnb
+C:\Users\Nihar\documents\visual studio 2013\Projects\CameraTester\CameraTester\CameraTester\bin\x86\Debug\Content\Crosshair.xnb
+C:\Users\Nihar\documents\visual studio 2013\Projects\CameraTester\CameraTester\CameraTester\bin\x86\Debug\CameraTester.exe
+C:\Users\Nihar\documents\visual studio 2013\Projects\CameraTester\CameraTester\CameraTester\bin\x86\Debug\CameraTester.pdb
+C:\Users\Nihar\documents\visual studio 2013\Projects\CameraTester\CameraTester\CameraTester\obj\x86\Debug\CameraTester.csprojResolveAssemblyReference.cache
+C:\Users\Nihar\documents\visual studio 2013\Projects\CameraTester\CameraTester\CameraTester\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Nihar\documents\visual studio 2013\Projects\CameraTester\CameraTester\CameraTester\obj\x86\Debug\CameraTester.exe
+C:\Users\Nihar\documents\visual studio 2013\Projects\CameraTester\CameraTester\CameraTester\obj\x86\Debug\CameraTester.pdb
+C:\Users\Nihar\documents\visual studio 2013\Projects\CameraTester\CameraTester\CameraTester\bin\x86\Debug\Content\EnhancedCrosshair.xnb

@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>BackgroundGradient.png</Source>
+      <Name>BackgroundGradient</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Nihar\documents\visual studio 2013\Projects\CameraTester\CameraTester\CameraTester\bin\x86\Debug\Content\BackgroundGradient.xnb</Output>
+      <Time>2014-07-27T23:35:13.7090809-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Crosshair.png</Source>
+      <Name>Crosshair</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Nihar\documents\visual studio 2013\Projects\CameraTester\CameraTester\CameraTester\bin\x86\Debug\Content\Crosshair.xnb</Output>
+      <Time>2014-07-27T22:14:29.3435335-05:00</Time>
+    </Item>
+    <Item>
+      <Source>EnhancedCrosshair.png</Source>
+      <Name>EnhancedCrosshair</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Nihar\documents\visual studio 2013\Projects\CameraTester\CameraTester\CameraTester\bin\x86\Debug\Content\EnhancedCrosshair.xnb</Output>
+      <Time>2014-07-27T23:38:10.6460933-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{0066CAAB-E541-4E59-A6C8-B98422251A88}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Nihar\documents\visual studio 2013\Projects\CameraTester\CameraTester\CameraTesterContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Nihar\documents\visual studio 2013\Projects\CameraTester\CameraTester\CameraTester\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Nihar\documents\visual studio 2013\Projects\CameraTester\CameraTester\CameraTester\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Nihar\documents\visual studio 2013\Projects\CameraTester\CameraTester\CameraTester\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-07-22T12:45:23.456807-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
